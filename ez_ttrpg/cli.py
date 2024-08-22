@@ -1,3 +1,5 @@
+from .lib import *
+
 def main():
     print("Hello, World!")
 
